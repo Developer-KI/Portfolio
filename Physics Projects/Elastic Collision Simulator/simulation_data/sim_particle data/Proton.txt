@@ -1,0 +1,5 @@
+Name: Proton
+Group: Hadron
+Mass: 900.10938356
+Radius: 0.25
+Charge: +1

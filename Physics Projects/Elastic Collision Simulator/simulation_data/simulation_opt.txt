@@ -1,0 +1,5 @@
+Simulation_Number(int): 10
+Simulation_Duration(t in seconds): 200
+Simulation_Step(dt in seconds): 0.01
+Simulation_Distance_Range(- to +): 10000
+Simulation_Velocity_Range(- to +): 100
