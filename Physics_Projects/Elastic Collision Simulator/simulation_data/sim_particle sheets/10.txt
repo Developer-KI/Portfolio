@@ -1,0 +1,3 @@
+Electron: 20
+Proton: 20
+Neutron: 20

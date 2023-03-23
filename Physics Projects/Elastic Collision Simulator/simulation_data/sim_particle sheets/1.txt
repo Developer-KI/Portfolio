@@ -1,3 +1,0 @@
-Electron: 1
-Proton: 1
-Neutron: 0
