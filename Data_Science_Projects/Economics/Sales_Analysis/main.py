@@ -9,10 +9,14 @@ from PIL import Image
 st.title('Real World Sales Analysis Project')
 st.markdown("""
 This app performs simple analysis of an online tech store sales dataset for 2019!  \n
-**Python libraries:** pandas, matplotlib, streamlit
+* **Data Source:** Randomly Generated using create_data.py script in the git repository
+* **Python libraries:** pandas, matplotlib, streamlit
 """)
 importIm = Image.open('./Misc/Import.png')
 st.image(importIm)
+st.markdown("""
+
+""")
 st.markdown("""
 #### Task #1: Merge the 12 months of sales data into a single CSV file:
 """)
